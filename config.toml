@@ -1,0 +1,11 @@
+baseURL = 'https://junjieim.github.io/'
+languageCode = 'en-us'
+title = 'Junjie.im'
+
+theme = "paper"
+
+[params]
+  disableHLJS = true                         # don't use highlight.js
+  github = 'https://github.com/junjieim'                  # github.com/YOUR_GITHUB_ID
+  telegram = 'https://t.me/junjieim'
+  email = 'mailto:contact@junjie.im'
