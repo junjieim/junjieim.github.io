@@ -10,4 +10,4 @@ theme = "paper"
   disableHLJS = true                         # don't use highlight.js
   github = 'https://github.com/junjieim'                  # github.com/YOUR_GITHUB_ID
   telegram = 'https://t.me/junjieim'
-  email = 'mailto:contact@junjie.im'
+  email = 'https://zhiy.cc/junjieim'
