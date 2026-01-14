@@ -1,0 +1,27 @@
+baseURL: "https://junjieim.github.io/"
+languageCode: "zh-cn"
+title: "Junjie.im"
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - name: Posts
+      url: /posts/
+      weight: 10
+    - name: Archives
+      url: /archives/
+      weight: 20
+    - name: Search
+      url: /search/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
