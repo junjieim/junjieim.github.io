@@ -1,0 +1,9 @@
+/* 文章正文中的图片全局规则 */
+.post-content img {
+  max-height: 60vh;     /* 防止竖图过长 */
+  width: auto;
+  max-width: 100%;
+  display: block;
+  margin: 1.2rem auto;
+  object-fit: contain;
+}
