@@ -48,9 +48,9 @@ params:
       url: "https://t.me/No0752"
     # - name: github
     #   url: "https://github.com/junjieim"
-    - name: message
-      url: "https://mp.weixin.qq.com/s/3Vdea35ye68BSaHTfwFBGQ"
     - name: email
       url: "mailto:contact#junjie.im"
+    - name: wechatplatform
+      url: "https://mp.weixin.qq.com/s/3Vdea35ye68BSaHTfwFBGQ"
     - name: rss
       url: "index.xml"
