@@ -46,9 +46,9 @@ params:
   socialIcons:
     - name: telegram
       url: "https://t.me/No0752"
-    - name: github
-      url: "https://github.com/junjieim"
+    # - name: github
+    #   url: "https://github.com/junjieim"
     - name: email
-      url: "contact#junjie.im"
+      url: "mailto:contact#junjie.im"
     - name: rss
       url: "index.xml"
