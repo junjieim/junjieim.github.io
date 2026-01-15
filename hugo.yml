@@ -15,15 +15,12 @@ outputs:
 # 顶部菜单
 menu:
   main:
-    - name: Posts
-      url: /posts/
-      weight: 10
     - name: Archives
-      url: /archives/
-      weight: 20
+      url: /all/
+      weight: 10
     - name: Search
       url: /search/
-      weight: 30
+      weight: 100
 
 params:
   # 外观
