@@ -3,11 +3,16 @@ languageCode: "zh-cn"
 title: "Junjie.im"
 theme: ["PaperMod"]
 
-params:
-  defaultTheme: auto
-  ShowReadingTime: true
-  ShowCodeCopyButtons: true
+enableRobotsTXT: true
 
+# 站内搜索需要 JSON 输出
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# 顶部菜单
 menu:
   main:
     - name: Posts
@@ -20,8 +25,28 @@ menu:
       url: /search/
       weight: 30
 
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+params:
+  # 外观
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  # 文章页常用
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+
+  # 列表页/首页
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  # Home-Info（主页信息块）
+  homeInfoParams:
+    Title: "Welcome to junjie.im 👋"
+
+  # 社交链接（按需删减）
+  socialIcons:
+    - name: github
+      url: "https://github.com/junjieim"
+    - name: rss
+      url: "index.xml"
