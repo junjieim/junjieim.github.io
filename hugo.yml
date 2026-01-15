@@ -39,11 +39,16 @@ params:
 
   # Home-Info（主页信息块）
   homeInfoParams:
-    Title: "Welcome to junjie.im 👋"
+    Title: "Junjie.im"
+    COntent: "To Dissect Myself"
 
   # 社交链接（按需删减）
   socialIcons:
+    - name: telegram
+      url: "https://t.me/No0752"
     - name: github
       url: "https://github.com/junjieim"
+    - name: email
+      url: "contact#junjie.im"
     - name: rss
       url: "index.xml"
