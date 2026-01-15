@@ -15,10 +15,10 @@ outputs:
 # 顶部菜单
 menu:
   main:
-    - name: Archives
+    - name: All
       url: /all/
       weight: 10
-    - name: Search
+    - name: 🔍︎
       url: /search/
       weight: 100
 

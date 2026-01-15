@@ -1,4 +1,5 @@
 ---
+title: 我的信息流
 date: 2026-01-15
 lastmod: 2026-01-15
 draft: false
@@ -18,14 +19,13 @@ slug: "1"
 
 以及图片：
 
-![[image.png|300]]
+<img src="image.png" style="width:50%;">
 
 Gemini 版本：
 
 > 这是一个生活在一线城市的 **30 岁左右复合型工程师**（推测为结构工程背景但精通编程）。他是一位**极度理性的长期主义者**，游走于物理建筑的严谨与数字代码（Emacs/Python）的逻辑之间，对信息质量有着极高的洁癖，厌恶算法投喂的低质噪音，偏好通过 RSS 和长播客深度摄取政史人文、宏观经济与硬核技术内容。他在 Web3 与金融投资上保持冷静观察，同时务实地关注家庭装修与个人成长，是一位**在喧嚣互联网中坚持构建自我认知秩序的数字工匠**。
 
-
-![[Gemini_Generated_Image_vaay58vaay58vaay.png|600]]
+<img src="Gemini_Generated_Image_vaay58vaay58vaay.png" style="width:70%;">
 
 ## 播客
 
