@@ -18,6 +18,15 @@ menu:
     - name: All
       url: /all/
       weight: 10
+    - name: Text
+      url: /text/
+      weight: 20
+    - name: Voice
+      url: /voice/
+      weight: 30
+    - name: Visuals
+      url: /visuals/
+      weight: 40
     - name: 🔍︎
       url: /search/
       weight: 100
