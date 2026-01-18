@@ -1,4 +1,5 @@
-baseURL: "https://junjieim.github.io/"
+baseURL: "https://junjie.im"
+canonifyURLs: true
 languageCode: "zh-cn"
 title: "Junjie.im"
 theme: ["PaperMod"]

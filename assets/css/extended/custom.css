@@ -7,3 +7,9 @@
   margin: 1.2rem auto;
   object-fit: contain;
 }
+
+/* Hide top-left site title/logo only on homepage */
+body.home header .logo,
+body.home header .logo a {
+  display: none;
+}
