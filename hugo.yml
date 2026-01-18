@@ -49,8 +49,7 @@ params:
 
   # Home-Info（主页信息块）
   homeInfoParams:
-    Title: "Junjie.im"
-    COntent: "To Dissect Myself"
+    Title: "To Dissect Myself"
 
   # 社交链接（按需删减）
   socialIcons:
